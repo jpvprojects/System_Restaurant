@@ -13,6 +13,7 @@ namespace System_Restaurant.LIBRERIAS
         static private AES aes = new AES();
         static public string CnString;
         static string dbcnString;
+        //Password para desencriptar a nivel general
         static public string appPwdUnique = "Restaunart.System.BASEREST.Enigma*-*";
 
 
