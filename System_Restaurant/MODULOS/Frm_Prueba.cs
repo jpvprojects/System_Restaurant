@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace System_Restaurant
+namespace System_Restaurant.MODULOS
 {
-    public partial class Form1 : Form
+    public partial class Frm_Prueba : Form
     {
-        public Form1()
+        public Frm_Prueba()
         {
             InitializeComponent();
         }
