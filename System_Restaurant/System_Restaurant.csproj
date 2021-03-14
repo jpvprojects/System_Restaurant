@@ -60,6 +60,7 @@
     </Compile>
     <Compile Include="LIBRERIAS\Cls_Desencriptacion.cs" />
     <Compile Include="LIBRERIAS\Cls_Encriptacion.cs" />
+    <Compile Include="MODULOS\Cls_Prueba.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CONEXION\Frm_Conexion_Manual.resx">
@@ -87,8 +88,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="MODULOS\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
